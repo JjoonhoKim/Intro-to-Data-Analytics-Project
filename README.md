@@ -1,0 +1,1 @@
+This was my first project in my Data Analytics course where I extracted and cleaned data in order to create visuals and provide analytical insight into GameCo's marketing department going into the 2017 fiscal year.# Intro-to-Data-Analytics-Project
