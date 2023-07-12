@@ -1,7 +1,6 @@
 # Intro-to-Data-Analytics-Project
 ## Summary
-For this project, I was asked to be a data analyst for a pseudo Gaming Company and asked to perform a descriptive analysis of a video game data set to foster a better understanding of how GameCo’s new games might fare in the market. 
-The objective of my project was to find insights using historical data and giving reccommendations for the marketing budget in the coming up year. 
+I was assigned the role of a data analyst for a fictional Gaming Company. The task was to conduct a descriptive analysis of a video game dataset in order to gain insights into how the company's new games could perform in the market. The intended audience for this project was the executives of GameCo. The analysis focused on historical data of video game sales in North America, the European Union, and Japan. The dataset was obtained from VG Charts and the analyst cleaned the data and created visualizations to present their findings and insights.
 ## Data Analytics/Hypothesis
 The current understanding of GameCo's marketing strategy is that the 3 regions (NA,EU, and JP) have maintained consistent sales each year; thus, the marketing budget has remained steady.
 Based on the line graph created in my presentation, the data suggests that each region has substantially changed in its global sales proportion over time.
