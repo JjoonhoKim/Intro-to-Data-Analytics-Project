@@ -6,7 +6,7 @@ I was assigned the role of a data analyst for a fictional Gaming Company. The ta
   * Based on the line graph created in my presentation, the data suggests that each region has substantially changed in its global sales proportion over time.
   * Based on the bar graphs created in my presentation, some insights I discovered was that Japan sales exceed the European Union and North America region in the Role-Playing genre and also that the Playstation 4 was the top grossing console in 2016.
 ## Data on GameCo Global Sales by Region
-  ![picture alt](![line graph](https://github.com/JjoonhoKim/Intro-to-Data-Analytics-Project/assets/138716928/df28a5d3-fa15-4451-bc13-cbc0b60f3fae)
+ (![line graph](https://github.com/JjoonhoKim/Intro-to-Data-Analytics-Project/assets/138716928/df28a5d3-fa15-4451-bc13-cbc0b60f3fae)
 ## Recommendation
 * Based on the data analysis, several recommendations can be made regaring each region. In the North American market, its global proportion has decreased over time compared to the other regions. I reccommended to allocate fewer marketing resources due to its decline.
 * In the European Union market, the region has shown to have a steady interest growth over time, and I reccommend to allcoate more marketing resources for the upcoming year. 
